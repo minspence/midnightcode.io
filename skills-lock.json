@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "skills": {
+    "content-experimentation-best-practices": {
+      "source": "sanity-io/agent-toolkit",
+      "commit": "2cf463430d81b1a282d886dc188690c82b48c3be",
+      "sourceType": "github",
+      "skillPath": "skills/content-experimentation-best-practices/SKILL.md",
+      "computedHash": "7bdce53eb54950f5403c00931167c7fa0b33f0b4bd0eefc207d1043a36df626c"
+    },
+    "content-modeling-best-practices": {
+      "source": "sanity-io/agent-toolkit",
+      "commit": "2cf463430d81b1a282d886dc188690c82b48c3be",
+      "sourceType": "github",
+      "skillPath": "skills/content-modeling-best-practices/SKILL.md",
+      "computedHash": "327f5f5e44e831a74b9541ed2dccb4df3d687f54c99de752c74e5cee9c406e7b"
+    },
+    "next-bundle-optimizer": {
+      "source": "vercel/next.js",
+      "commit": "cee16b5fa005bfe7171a543d9e68bad7d773e1f0",
+      "sourceType": "github",
+      "skillPath": "skills/next-bundle-optimizer/SKILL.md",
+      "computedHash": "2a2d38e9ba5476f6eef7a86cc1531801b454fdcd5ee8b96745973e01b5d25397"
+    },
+    "next-cache-components-adoption": {
+      "source": "vercel/next.js",
+      "commit": "cee16b5fa005bfe7171a543d9e68bad7d773e1f0",
+      "sourceType": "github",
+      "skillPath": "skills/next-cache-components-adoption/SKILL.md",
+      "computedHash": "004440bc8cfbf30291fc9564e14ade7874c886189e2df3a4bcbb7c937ef58b07"
+    },
+    "next-cache-components-optimizer": {
+      "source": "vercel/next.js",
+      "commit": "cee16b5fa005bfe7171a543d9e68bad7d773e1f0",
+      "sourceType": "github",
+      "skillPath": "skills/next-cache-components-optimizer/SKILL.md",
+      "computedHash": "97a5b125e85aff3ebe90626b887cf016f4de33c01b479a42758bd57fe233db4c"
+    },
+    "next-dev-loop": {
+      "source": "vercel/next.js",
+      "commit": "cee16b5fa005bfe7171a543d9e68bad7d773e1f0",
+      "sourceType": "github",
+      "skillPath": "skills/next-dev-loop/SKILL.md",
+      "computedHash": "78ebafaabaa8fd170da34957943f5845436f66c04daf85a93fc759f38a50a4ca"
+    },
+    "next-partial-prefetching-adoption": {
+      "source": "vercel/next.js",
+      "commit": "cee16b5fa005bfe7171a543d9e68bad7d773e1f0",
+      "sourceType": "github",
+      "skillPath": "skills/next-partial-prefetching-adoption/SKILL.md",
+      "computedHash": "846465406dbe131257bfeba359e9966973a63c19b732cc5551f630851a9435cc"
+    },
+    "next-partial-prefetching-optimizer": {
+      "source": "vercel/next.js",
+      "commit": "cee16b5fa005bfe7171a543d9e68bad7d773e1f0",
+      "sourceType": "github",
+      "skillPath": "skills/next-partial-prefetching-optimizer/SKILL.md",
+      "computedHash": "c14905fe96b7cae2af2d359edbfa6f07cc1fae5ff94709ed58092834677dc24d"
+    },
+    "portable-text-conversion": {
+      "source": "sanity-io/agent-toolkit",
+      "commit": "2cf463430d81b1a282d886dc188690c82b48c3be",
+      "sourceType": "github",
+      "skillPath": "skills/portable-text-conversion/SKILL.md",
+      "computedHash": "b9af301219af0a93707340e6120b2984037f32a512742cbf0a500a8031de75e3"
+    },
+    "portable-text-serialization": {
+      "source": "sanity-io/agent-toolkit",
+      "commit": "2cf463430d81b1a282d886dc188690c82b48c3be",
+      "sourceType": "github",
+      "skillPath": "skills/portable-text-serialization/SKILL.md",
+      "computedHash": "53d298581e63c4cf36ef7ac3b51e15fdaa065b17ea38ed5f65147fba24b85bde"
+    },
+    "sanity-best-practices": {
+      "source": "sanity-io/agent-toolkit",
+      "commit": "2cf463430d81b1a282d886dc188690c82b48c3be",
+      "sourceType": "github",
+      "skillPath": "skills/sanity-best-practices/SKILL.md",
+      "computedHash": "06737075960b17b1bb53d332b6b7e6d4ee626627d60effd910262f5e19a268c2"
+    },
+    "sanity-form-component-suspense": {
+      "source": "sanity-io/agent-toolkit",
+      "commit": "2cf463430d81b1a282d886dc188690c82b48c3be",
+      "sourceType": "github",
+      "skillPath": "skills/sanity-form-component-suspense/SKILL.md",
+      "computedHash": "81e08a49deffdc6e2dc27ad4c5c5b829b8856d87cea10a0b9aa0c1947a72ad0b"
+    },
+    "sanity-migration": {
+      "source": "sanity-io/agent-toolkit",
+      "commit": "2cf463430d81b1a282d886dc188690c82b48c3be",
+      "sourceType": "github",
+      "skillPath": "skills/sanity-migration/SKILL.md",
+      "computedHash": "51bd118081b8d9f34100d9064d00049caee9d74fc21226a647a2ce1f534d3fc5"
+    },
+    "sanity-singletons": {
+      "source": "sanity-io/agent-toolkit",
+      "commit": "2cf463430d81b1a282d886dc188690c82b48c3be",
+      "sourceType": "github",
+      "skillPath": "skills/sanity-singletons/SKILL.md",
+      "computedHash": "6eb4e2f1fd1851232df1e7da38563bbaf07707e0674eac5de0de23e199f11710"
+    },
+    "sanity-studio-listeners": {
+      "source": "sanity-io/agent-toolkit",
+      "commit": "2cf463430d81b1a282d886dc188690c82b48c3be",
+      "sourceType": "github",
+      "skillPath": "skills/sanity-studio-listeners/SKILL.md",
+      "computedHash": "188e95ae261ae303cb2cb45c8d22ef7cf3d73df66f1680270f44fe6a954a46e5"
+    },
+    "sanity-studio-upgrade": {
+      "source": "sanity-io/agent-toolkit",
+      "commit": "2cf463430d81b1a282d886dc188690c82b48c3be",
+      "sourceType": "github",
+      "skillPath": "skills/sanity-studio-upgrade/SKILL.md",
+      "computedHash": "4bfe887545477b332679a11f3d6251e7bdffa409730f76ab80adae202630e98d"
+    },
+    "seo-aeo-best-practices": {
+      "source": "sanity-io/agent-toolkit",
+      "commit": "2cf463430d81b1a282d886dc188690c82b48c3be",
+      "sourceType": "github",
+      "skillPath": "skills/seo-aeo-best-practices/SKILL.md",
+      "computedHash": "3dd0a23b819eb148b81ebc609dfe0827491018591afc0c35dc0401013300b5a1"
+    }
+  }
+}

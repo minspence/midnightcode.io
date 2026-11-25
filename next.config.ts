@@ -5,6 +5,11 @@ const nextConfig: NextConfig = {
   experimental: {
     agentFeedback: true,
   },
+  images: {
+    remotePatterns: [
+      { protocol: "https", hostname: "cdn.sanity.io", pathname: "/images/**" },
+    ],
+  },
   cacheComponents: true,
   partialPrefetching: true,
   turbopack: {
